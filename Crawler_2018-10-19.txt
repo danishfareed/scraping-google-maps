@@ -1,0 +1,526 @@
+
+------------------------------------------------------------------------------------------
+nome     : Josafa Cabeleireiros
+ranking  : 2,6
+endereco : Av. Crisântemo, 431
+Telefone : (11) 3685-2535
+------------------------------------------------------------------------------------------
+nome     : IsaBelle Estilo e Beleza
+ranking  : 4,9
+endereco : Av. Cmte. Sampaio, 752
+Telefone : (11) 3695-7986
+------------------------------------------------------------------------------------------
+nome     : Espaço VIP Hair
+ranking  : 5,0
+endereco : Av. Diogo Antônio Feijó, 871
+Telefone : (11) 3607-2942
+------------------------------------------------------------------------------------------
+nome     : Backstage - Espaço da beleza
+ranking  : 4,5
+endereco : Av. das Flores, 616
+Telefone : (11) 3699-5046
+------------------------------------------------------------------------------------------
+nome     : Central da Beleza
+ranking  : 4,0
+endereco : Av. Jorge Batista, 3
+Telefone : (11) 3603-1204
+------------------------------------------------------------------------------------------
+nome     : Wagner Beauty
+ranking  : 4,6
+endereco : R. Cipriano Taváres, 185
+Telefone : (11) 99999-6550
+------------------------------------------------------------------------------------------
+nome     : Cantinho da Beleza
+ranking  : 1,0
+endereco : Av. Brasil, 1189
+Telefone : (11) 94610-8128
+------------------------------------------------------------------------------------------
+nome     : My Hair Stilo e Beleza
+ranking  : 5,0
+endereco : Av. Dionysia Alves Barreto, 477
+Telefone : (11) 3682-6770
+------------------------------------------------------------------------------------------
+nome     : Shekinah Cabeleireiros
+ranking  : 
+endereco : Av. Olavo Bilac, 315
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Kanzen Studio Hair Super Shopping
+ranking  : 5,0
+endereco : (11) 3699-9750
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Espaço da Beleza luxo
+ranking  : 
+endereco : R. Eurípedes de Paula, 111
+Telefone : (11) 4311-3144
+------------------------------------------------------------------------------------------
+nome     : Loha Estética e Beleza
+ranking  : 4,5
+endereco : R. Dona Primitiva Vianco, 100
+Telefone : (11) 3682-4080
+------------------------------------------------------------------------------------------
+nome     : Maria Bonita Beleza e Presentes
+ranking  : 
+endereco : Av. Pres. Médice, 2073 - sala 2
+Telefone : (11) 98491-7141
+------------------------------------------------------------------------------------------
+nome     : Pelluquerias Cabelo e Corpo
+ranking  : 
+endereco : Av. Horácio Lafer, 409 - Km 18
+Telefone : (11) 3654-0203
+------------------------------------------------------------------------------------------
+nome     : Bela Estética Espaço de Beleza
+ranking  : 
+endereco : Rua Vitório Tafarello, 892
+Telefone : (11) 99005-2702
+------------------------------------------------------------------------------------------
+nome     : Equipe Zelma Tranças
+ranking  : 3,3
+endereco : Praça Antônio Menck
+Telefone : (11) 3869-9115
+------------------------------------------------------------------------------------------
+nome     : Ponto Chiq
+ranking  : 4,7
+endereco : Av. Hildebrando de Lima, 270
+Telefone : (11) 3681-2810
+------------------------------------------------------------------------------------------
+nome     : Studio Alves Espaço & Beleza
+ranking  : 5,0
+endereco : R. Amador Bueno, 1050
+Telefone : (11) 99570-2472
+------------------------------------------------------------------------------------------
+nome     : Zizi Limão - Espaço da Beleza
+ranking  : 1,0
+endereco : Rua Oswaldo Collino, 1026
+Telefone : (11) 3654-2978
+------------------------------------------------------------------------------------------
+nome     : Studio Lius Cabeleireiros
+ranking  : 4,3
+endereco : Av. Cmte. Sampaio, 292
+Telefone : (11) 3681-3991
+------------------------------------------------------------------------------------------
+nome     : Salão De Beleza Carol
+ranking  : 
+endereco : R. Dr. Carlos Ubaldino Bueno de Abreu, 44
+Telefone : (11) 96914-9218
+------------------------------------------------------------------------------------------
+nome     : JCL Escola de Cabeleireiros
+ranking  : 3,7
+endereco : R. Dona Primitiva Vianco, 667
+Telefone : (11) 3684-1614
+------------------------------------------------------------------------------------------
+nome     : Aureni Salão de Beleza Feminino
+ranking  : 
+endereco : R. Águas de Lindóia, 108
+Telefone : (11) 3696-3601
+------------------------------------------------------------------------------------------
+nome     : Salao Show Da Beleza
+ranking  : 
+endereco : Av. Juscelino Kubitschek de Oliveira, 215
+Telefone : (11) 97703-1936
+------------------------------------------------------------------------------------------
+nome     : Harulki Espaço de Beleza
+ranking  : 4,4
+endereco : R. Ten. Avelar Píres de Azevedo, 74
+Telefone : (11) 3682-0250
+------------------------------------------------------------------------------------------
+nome     : GOTT HAIR STYLE
+ranking  : 4,4
+endereco : R. Ten. Avelar Píres de Azevedo, 81 - loja 145/146
+Telefone : (11) 3682-1522
+------------------------------------------------------------------------------------------
+nome     : Salão De Beleza Alexsa's Hair
+ranking  : 5,0
+endereco : R. Juriti
+Telefone : (11) 2832-1094
+------------------------------------------------------------------------------------------
+nome     : Espaço Le Charmant Dia da Noiva
+ranking  : 4,8
+endereco : R. Alice Manholer Piteri, 363
+Telefone : (11) 95054-2627
+------------------------------------------------------------------------------------------
+nome     : Escovaria de Luxo
+ranking  : 5,0
+endereco : Av. Diogo Antônio Feijó, 543
+Telefone : (11) 96456-4676
+------------------------------------------------------------------------------------------
+nome     : "Lari" Salão De Beleza E Estética
+ranking  : 
+endereco : R. Jaguarão, 106
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Studio Onze Cabelo e Beleza
+ranking  : 4,8
+endereco : Av. Dionysia Alves Barreto, 205
+Telefone : (11) 3681-7281
+------------------------------------------------------------------------------------------
+nome     : Volpi Salão de Beleza
+ranking  : 
+endereco : R. Paulo Lício Rizo, 219
+Telefone : (11) 3681-3804
+------------------------------------------------------------------------------------------
+nome     : Salão de Beleza Sempre Bella
+ranking  : 5,0
+endereco : R. Nina Rodrigues, 511
+Telefone : (19) 97288-8500
+------------------------------------------------------------------------------------------
+nome     : Salão Cabeleireiro Almeida
+ranking  : 4,0
+endereco : R. Pres. Costa e Silva, 350
+Telefone : (11) 3686-3839
+------------------------------------------------------------------------------------------
+nome     : Ray Salão De Beleza
+ranking  : 2,0
+endereco : Av. Brasil, 485
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Stillus Cabeleireiros e Barbearia
+ranking  : 4,6
+endereco : R. São Cristovão, 17
+Telefone : (11) 3686-0166
+------------------------------------------------------------------------------------------
+nome     : Cição Hair Beauty
+ranking  : 4,7
+endereco : Av. João Ventura dos Santos, 1740
+Telefone : (11) 3603-4241
+------------------------------------------------------------------------------------------
+nome     : Espaço Da Beleza J & A
+ranking  : 5,0
+endereco : R. Agudos, 799
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Salão Stylu's Cabeleireiros
+ranking  : 
+endereco : R. Maria Carvalho de Lima
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Novo Visual Centro de Beleza e Estética
+ranking  : 5,0
+endereco : R. Pres. Costa e Silva, 635 - Loja 3
+Telefone : (11) 3656-2307
+------------------------------------------------------------------------------------------
+nome     : Esmalteria Nacional Osasco Km 18
+ranking  : 4,2
+endereco : Av. Hildebrando de Lima, 704
+Telefone : (11) 4384-6303
+------------------------------------------------------------------------------------------
+nome     : Ale & Sel Depilação e Cabeleireiro.
+ranking  : 4,3
+endereco : R. Pedro Fioreti, 15
+Telefone : (11) 3681-4082
+------------------------------------------------------------------------------------------
+nome     : Magia da Beleza
+ranking  : 4,4
+endereco : R. Aurora Soares Barbosa, 99
+Telefone : (11) 4237-7000
+------------------------------------------------------------------------------------------
+nome     : Look Hair Cabeleleira
+ranking  : 5,0
+endereco : R. Batista de Azevedo, 307
+Telefone : (11) 99523-5824
+------------------------------------------------------------------------------------------
+nome     : Fernanda Hair
+ranking  : 5,0
+endereco : R. Papoula, 311
+Telefone : (11) 3682-6048
+------------------------------------------------------------------------------------------
+nome     : Beleza & Cia Cabeleireiros
+ranking  : 4,8
+endereco : R. Erasmo Braga, 208
+Telefone : (11) 3699-5758
+------------------------------------------------------------------------------------------
+nome     : Salão 2000 Cabeleireira
+ranking  : 5,0
+endereco : Av. Horácio Lafer, 780
+Telefone : (11) 3683-8307
+------------------------------------------------------------------------------------------
+nome     : photos flai
+ranking  : 
+endereco : Av. Diogo Antônio Feijó, 464
+Telefone : (11) 3698-6859
+------------------------------------------------------------------------------------------
+nome     : Sobrancelha em - Design Sobrancelha Osasco - Limpeza de Sobrancelhas
+ranking  : 5,0
+endereco : 1828, Av. dos Autonomistas
+Telefone : (11) 3654-1786
+------------------------------------------------------------------------------------------
+nome     : Jóca
+ranking  : 4,2
+endereco : R. Ari Barroso, 68
+Telefone : (11) 3445-5347
+------------------------------------------------------------------------------------------
+nome     : Cabelo.com
+ranking  : 5,0
+endereco : ESTACIONAMENTO GRATUITO - 616, Av. das Flores
+Telefone : (11) 3765-0333
+------------------------------------------------------------------------------------------
+nome     : Beauty Parlour Cabelo e estética
+ranking  : 4,9
+endereco : R. Dante Batiston, 87
+Telefone : (11) 3683-9566
+------------------------------------------------------------------------------------------
+nome     : Glitter Comércio de Produtos de Beleza e Serviços Ltda
+ranking  : 
+endereco : Av. Mal. Rondon, 151
+Telefone : (11) 3682-2007
+------------------------------------------------------------------------------------------
+nome     : Studio B
+ranking  : 
+endereco : R. Pôrto Alegre, 452
+Telefone : (11) 97957-5601
+------------------------------------------------------------------------------------------
+nome     : SAlÃO RUIZ - MELHORE SEU VISUAL.AV. Horácio Lafer -Jardin das flores
+ranking  : 4,5
+endereco : Av. Horácio Lafer, 599
+Telefone : (11) 3699-2424
+------------------------------------------------------------------------------------------
+nome     : Studio Beleza Máxima
+ranking  : 
+endereco : Rua Oswaldo Collino, 238
+Telefone : (11) 2576-3217
+------------------------------------------------------------------------------------------
+nome     : Sóbrancelhas
+ranking  : 5,0
+endereco : R. Antônio Agú, 121
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Maria Cruz Estética e Beleza
+ranking  : 
+endereco : Av. Dionysia Alves Barreto, 446
+Telefone : (11) 3685-0733
+------------------------------------------------------------------------------------------
+nome     : Salão Matiko
+ranking  : 
+endereco : R. Machado de Assis, 480
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Dindas Esmalteria
+ranking  : 3,7
+endereco : Rua Tenente Avelar Pires De Azevedo, 81, Loja 226-J/2
+Telefone : (11) 3681-1132
+------------------------------------------------------------------------------------------
+nome     : H&C Hair Designer and Beauty
+ranking  : 5,0
+endereco : R. Cônego Afonso, 225
+Telefone : (11) 3688-2307
+------------------------------------------------------------------------------------------
+nome     : Studio Beluca
+ranking  : 5,0
+endereco : R. Ten. Avelar Píres de Azevedo, 345
+Telefone : (11) 3685-9552
+------------------------------------------------------------------------------------------
+nome     : Della Donna Cabeleireiros
+ranking  : 
+endereco : Rua Dona Primitiva Vianco, 1001 - Sala 4
+Telefone : (11) 4556-0307
+------------------------------------------------------------------------------------------
+nome     : Camarim Stetic & Hair
+ranking  : 
+endereco : Av. Diogo Antônio Feijó, 700
+Telefone : (11) 98333-8548
+------------------------------------------------------------------------------------------
+nome     : RF Micropigmentação Rosário Ferreira
+ranking  : 4,7
+endereco : R. Gen. Bitencourt, 140
+Telefone : (11) 3421-6557
+------------------------------------------------------------------------------------------
+nome     : Depil Cabeleireiros
+ranking  : 
+endereco : R. Orquídea, 184
+Telefone : (11) 3681-1469
+------------------------------------------------------------------------------------------
+nome     : Natural Hair
+ranking  : 4,7
+endereco : R. Itabuna, 34
+Telefone : (11) 3654-4608
+------------------------------------------------------------------------------------------
+nome     : Esmalteria Nacional
+ranking  : 2,9
+endereco : Avenida dos Autonomistas 1828
+Telefone : (11) 96365-9399
+------------------------------------------------------------------------------------------
+nome     : Instituto De Beleza Toque Final
+ranking  : 
+endereco : Av. Hildebrando de Lima, 502
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Forma e Beleza
+ranking  : 4,8
+endereco : R. João Crudo, 56
+Telefone : (11) 3699-2849
+------------------------------------------------------------------------------------------
+nome     : W&W Studio Hair
+ranking  : 4,9
+endereco : Av. Maria Campos, 810
+Telefone : (11) 4565-9991
+------------------------------------------------------------------------------------------
+nome     : Estúdio Nova Era Micropigmentação e Estetica
+ranking  : 
+endereco : Av. Dionysia Alves Barreto, 500
+Telefone : (11) 2508-9674
+------------------------------------------------------------------------------------------
+nome     : Tok Final Beleza
+ranking  : 5,0
+endereco : Av. Gen. Pedro Pinho, 961
+Telefone : (11) 3655-2680
+------------------------------------------------------------------------------------------
+nome     : Juliana Alves - Estética e Beleza
+ranking  : 
+endereco : R. Levy Duarte Silveira, 12
+Telefone : (11) 95849-2772
+------------------------------------------------------------------------------------------
+nome     : M A Hair Design
+ranking  : 4,8
+endereco : Av. Hildebrando de Lima, 554
+Telefone : (11) 3682-5551
+------------------------------------------------------------------------------------------
+nome     : Studio Bruna Souza
+ranking  : 
+endereco : Av. Hilario Pereira de Souza, 406 - Torre 2, Sala 1302
+Telefone : (11) 3683-7457
+------------------------------------------------------------------------------------------
+nome     : Plaft Hair
+ranking  : 
+endereco : R. Georgina, 11
+Telefone : (11) 4269-0499
+------------------------------------------------------------------------------------------
+nome     : Studio E Extension
+ranking  : 3,8
+endereco : R. Dona Primitiva Vianco, 244
+Telefone : (11) 3683-2820
+------------------------------------------------------------------------------------------
+nome     : Equipe Cabeleireiros
+ranking  : 4,3
+endereco : R. Profᵃ José Azevedo Minhoto, 408
+Telefone : (11) 3683-2667
+------------------------------------------------------------------------------------------
+nome     : Kamikatto Cabelo & Estética
+ranking  : 4,1
+endereco : Av. Cruzeiro do Sul, 916
+Telefone : (11) 3599-7093
+------------------------------------------------------------------------------------------
+nome     : Mam Móveis - Móveis para Salão
+ranking  : 3,3
+endereco : R. Ten. Avelar Píres de Azevedo, 586
+Telefone : (11) 3683-3017
+------------------------------------------------------------------------------------------
+nome     : Salão Enzo Cabelo & Cosméticos
+ranking  : 3,7
+endereco : R. Agudos, 477
+Telefone : (11) 3686-1906
+------------------------------------------------------------------------------------------
+nome     : Ebony Cabeleireiros
+ranking  : 5,0
+endereco : Avenida Primitiva Vianco, 601
+Telefone : (11) 3684-0793
+------------------------------------------------------------------------------------------
+nome     : Toda Bonita Beleza e Estetica
+ranking  : 4,4
+endereco : Av. Horácio Lafer, 997
+Telefone : (11) 3685-4494
+------------------------------------------------------------------------------------------
+nome     : Dna Da Beleza
+ranking  : 4,0
+endereco : (11) 3686-1660
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Salão
+ranking  : 
+endereco : R. Roque José Mendes Sobrinho, 52
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Rangel's Studios de Beleza
+ranking  : 
+endereco : R. Paula Rodrigues, 8
+Telefone : (11) 3696-5812
+------------------------------------------------------------------------------------------
+nome     : Romão Salão De Beleza
+ranking  : 
+endereco : R. Águas de Lindóia, 267
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Ivair Cms & Salão de Beleza Rose
+ranking  : 
+endereco : R. Júlio Dantas, 34
+Telefone : (11) 96239-2681
+------------------------------------------------------------------------------------------
+nome     : Cidinha Salão de Beleza
+ranking  : 5,0
+endereco : Av. Crisântemo, 480
+Telefone : (11) 3683-5573
+------------------------------------------------------------------------------------------
+nome     : Salão Ponto Chic
+ranking  : 4,8
+endereco : Av. Hildebrando de Lima, 270
+Telefone : (11) 3681-2810
+------------------------------------------------------------------------------------------
+nome     : Máfia da Beleza
+ranking  : 
+endereco : Av. Prof. Lourenço Filho, 1267
+Telefone : (11) 4554-6935
+------------------------------------------------------------------------------------------
+nome     : Sorelle Casa da Beleza
+ranking  : 
+endereco : R. Padre Kassabian, 193
+Telefone : (11) 98053-5145
+------------------------------------------------------------------------------------------
+nome     : Salão de Beleza Luciana Rossigalli
+ranking  : 
+endereco : R. Ari Barroso, 176
+Telefone : (11) 3684-1300
+------------------------------------------------------------------------------------------
+nome     : SALÃO DA CRIANÇA
+ranking  : 
+endereco : R. Ten. Avelar Píres de Azevedo, 81
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Ruth Beleza & Cia
+ranking  : 4,4
+endereco : R. Agudos, 612
+Telefone : (11) 3656-8669
+------------------------------------------------------------------------------------------
+nome     : Kanzen Studio Hair
+ranking  : 4,3
+endereco : Av. dos Autonomistas, 1828
+Telefone : (11) 3699-9750
+------------------------------------------------------------------------------------------
+nome     : M&E Cabeleireiros
+ranking  : 4,8
+endereco : R. Joséfina do Amaral Camargo, 84
+Telefone : (11) 3608-2925
+------------------------------------------------------------------------------------------
+nome     : Maria Bonita Cabeleireiros
+ranking  : 4,6
+endereco : Av. Dionysia Alves Barreto, 359
+Telefone : (11) 99211-6105
+------------------------------------------------------------------------------------------
+nome     : BELLA Espaço da Beleza
+ranking  : 
+endereco : R. João XXIII, 184
+Telefone : (11) 96074-3902
+------------------------------------------------------------------------------------------
+nome     : Frank Cabeleireiro
+ranking  : 5,0
+endereco : R. Agudos, 263
+Telefone : (11) 3448-2115
+------------------------------------------------------------------------------------------
+nome     : Mediterrani Professional
+ranking  : 
+endereco : Av. Brasil, 2280
+Telefone : (11) 3602-4871
+------------------------------------------------------------------------------------------
+nome     : Gil Cabeleireiros
+ranking  : 4,0
+endereco : R. Turqueza Azul, 20
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Arte Cia
+ranking  : 
+endereco : R. Nossa Sra. de Fátima, 239
+Telefone : (11) 3681-4555
+------------------------------------------------------------------------------------------
+nome     : Falchi Hair Cabeleireiros
+ranking  : 
+endereco : R. Ten. Avelar Píres de Azevedo, 288
+Telefone : 

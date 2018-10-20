@@ -4,7 +4,7 @@
   "description": "Crawler information google Maps",
   "main": "index.js",
   "scripts": {
-    "start": "node start.js"
+    "start": "node Init.js"
   },
   "keywords": [],
   "author": "Thiago jose de almeida simao",

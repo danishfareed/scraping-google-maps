@@ -1,3 +1,3 @@
-const Initialize = require("./Crawler/start.js");
+const Initialize = require("./scrap/start.js");
 
 Initialize();

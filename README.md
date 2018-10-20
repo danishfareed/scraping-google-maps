@@ -15,7 +15,7 @@ Open the terminal and execute the commands
 - clone repository
 
 ```
-git clone https://github.com/thiagosimaome/crawlerNodejs.git
+git clone https://github.com/thiagosimaome/Scraping-google-maps.git
 cd crawlerNodejs
 ```
 
@@ -25,19 +25,26 @@ cd crawlerNodejs
 npm install
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+## Config url
 
-## Scrap informations
+search for an establishment type in google, enter more places and copy the url in the project configuration file, following the same pattern:
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+- path config file
 
 ```
-Give an example
+  Scraping-google-maps/config/conf.js
+
+  -- conf.js
+  url: <past_url>
 ```
+
+### Scrap information
+
+```
+npm start
+```
+
+- The result will be placed in a file inside the 'scrap/results' folder of the project with the name of scrap_data.txt
 
 ## Versioning
 
@@ -49,6 +56,5 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
 - Inspiration
-- etc
+  - sometimes we need some quick and massive contacts, so the initiative to create and scrap information from the largest Google search engine

@@ -12,7 +12,7 @@ const getUrls = async () => {
   await page.goto(config.url);
   await page.content().then(function(html) {
     const $ = cheerio.load(html);
-    $("#nav td").each(function() {
+    $(".AaVjTc tbody tr td").each(function() {
       let url = $(this)
         .find("a")
         .attr("href");
